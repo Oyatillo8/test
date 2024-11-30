@@ -1,0 +1,41 @@
+.title{
+    text-align: center;
+    background-color: cornflowerblue;
+    border: 2px solid red;
+}
+.text{
+    text-align: center;
+    background-color: yellow;
+}
+.turli{
+    text-align: center;
+    background-color: yellow;
+}
+.titi{
+    text-align: center;
+    background-color: yellow;
+}
+table,td,th{
+    border: 1px solid black ;
+}
+.green{
+    background-color: green;
+    color: white;
+}
+.blue{
+    background-color: blue;
+    color:white;
+}
+.red{
+    background-color: red;
+    color: white;
+}
+.blak{
+    background-color: black;
+    color: white;
+}
+.tinti{
+    background-color: aqua;
+    width:200px;
+    height:30px;
+}
